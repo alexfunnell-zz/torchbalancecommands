@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>torchbalancecommands</Name>
+  <Guid>418ce889-8795-4acd-884f-3805c43a8371</Guid>
+  <Repository></Repository>
+  <Version>0.1</Version>
+</PluginManifest>
